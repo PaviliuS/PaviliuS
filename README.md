@@ -3,7 +3,7 @@
 I am  **Pavel** – Frontend developer from Moscow, specializing in creating high-quality applications.
 
 ### About me
-I am the&nbsp;qualified Frontend developer with&nbsp;a&nbsp;huge work experience
+I am the&nbsp;Frontend developer with&nbsp;a&nbsp;huge work experience
 and a&nbsp;good understanding of&nbsp;modern web-technologies. During
 my&nbsp;working time in&nbsp;the&nbsp;IT industry,
 I&nbsp;have&nbsp;developed many successful projects with&nbsp;usability,
