@@ -1,19 +1,29 @@
-### Hi there 👋
+### Hello everyone 👋
 
-My name is **Pavel**. I'm a Frontend developer and I have been working in this field for over year. In my work I use the `React & Redux` technology stack and related libraries, good knowledge of native `JavaScript & TypeScript` and the latest ES features. I also study and I'm engaged in constant self-education.
+I am  **Pavel** – Frontend developer from Moscow, specializing in creating high-quality applications.
 
+### About me
+I am a&nbsp;qualified Frontend developer with&nbsp;huge work experience
+        and a&nbsp;good understanding of&nbsp;modern web-technologies. During
+        my&nbsp;working time in&nbsp;the&nbsp;IT industry,
+        I&nbsp;have&nbsp;developed many successful projects with&nbsp;usability,
+        high performance and&nbsp;beautiful design.
 
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+   My&nbsp;professional career began with&nbsp;studying
+        the&nbsp;fundamentals of&nbsp;information technology
+        at&nbsp;the&nbsp;university, and&nbsp;since then I&nbsp;have&nbsp;been
+        constantly improving my&nbsp;skills by&nbsp;learning and&nbsp;creating
+        new, unique systems.
 
-![](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+   In&nbsp;my&nbsp;work, I&nbsp;try to&nbsp;follow the&nbsp;principles
+        of&nbsp;clean code and&nbsp;modular architecture, which allows
+        me&nbsp;to&nbsp;create high-quality and&nbsp;reliable applications.
 
+ Every new project gives me&nbsp;the&nbsp;opportunity to&nbsp;create
+        something unique and&nbsp;really useful. I&nbsp;am&nbsp;proud that
+        my&nbsp;applications not&nbsp;only meet technical requirements,
+        but&nbsp;also bring real benefits to&nbsp;people.
+        
+### [My website](https://dvoryaninov.tech)
 
 
