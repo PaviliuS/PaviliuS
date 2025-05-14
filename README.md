@@ -2,9 +2,10 @@
 
 I am  **Pavel** – Frontend developer from Moscow, specializing in creating high-quality applications. 
 
-I develop applications with a focus on quality, performance and accessibility. Passionate about creating the best systems. Frontend developer at Intelligent Analytics.
-
 ### About me
+
+I develop applications with&nbsp;a&nbsp;focus on&nbsp;quality, performance and&nbsp;accessibility. Passionate about creating the&nbsp;best systems. Frontend developer at&nbsp;Intelligent Analytics.
+
 I have a&nbsp;huge professional experience
 and a&nbsp;good understanding of&nbsp;modern web-technologies. During
 my&nbsp;working time in&nbsp;the&nbsp;IT industry,
